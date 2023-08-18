@@ -22,10 +22,10 @@ export default function Home() {
         style={{
           fontFamily: "sans-serif",
           fontWeight: "normal",
-          fontSize: "20px"
+          fontSize: "20px",
         }}
       >
-        Em construção... 🚧 
+        Em construção... 🚧
       </h2>
     </div>
   );
